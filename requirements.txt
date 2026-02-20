@@ -1,5 +1,7 @@
+pip==26.0.1
 aiogram==3.4.1
 aiohttp
 gspread
 google-auth
 matplotlib
+
