@@ -1,9 +1,7 @@
-# update pip and install core packages
 pip==26.0.1
 setuptools>=67.0
 wheel
 
-# project dependencies
 pydantic<2.4
 aiogram==3.4.1
 aiohttp
