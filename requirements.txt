@@ -1,12 +1,11 @@
-# Обновляем pip, setuptools и wheel
 pip==26.0.1
 setuptools>=67.0
 wheel
 
-# Основные зависимости проекта
 pydantic>=2.4,<2.6
 aiogram==3.4.1
 aiohttp
 gspread
 google-auth
+oauth2client
 matplotlib
